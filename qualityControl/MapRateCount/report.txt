@@ -1,0 +1,3 @@
+Total reads: 25442
+Unmapped read count: 1295
+Secondary or supplementary read: 0
